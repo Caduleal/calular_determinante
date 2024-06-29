@@ -1,0 +1,1 @@
+calcular_determinante(submatriz)
